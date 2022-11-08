@@ -19,3 +19,6 @@ resource "aws_s3_bucket" "S3Bucket" {
 ```
 
 __Sample View__
+
+![image](https://user-images.githubusercontent.com/111234771/200512783-64fb86e5-6248-43dd-886b-65c90e3229ee.png)
+
