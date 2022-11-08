@@ -23,5 +23,6 @@ __Sample View__
 ![image](https://user-images.githubusercontent.com/111234771/200512783-64fb86e5-6248-43dd-886b-65c90e3229ee.png)
 
 _Diagram_
+
 ![image](https://user-images.githubusercontent.com/111234771/200513468-e34c8468-4d34-4bc5-a087-5fc67444c68c.png)
 
