@@ -1,8 +1,8 @@
 # Creating IAM User and Group
 
 _Create a Terraform File 'iam.tf'_
+### Createing User Groups ###
 ```
-###Createing User Groups###
 resource "aws_iam_group" "IAMGroup" {
     name = "Developers"
 }
